@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Python" name="Python facet">
+      <configuration sdkName="~/CLionProjects/untitled/.venv" />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../Area Of Circle Calculator.py">
+      <excludeFolder url="file://$MODULE_DIR$/../Area Of Circle Calculator.py/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="~/CLionProjects/untitled/.venv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="~/CLionProjects/untitled/.venv interpreter library" level="application" />
+  </component>
+</module>
